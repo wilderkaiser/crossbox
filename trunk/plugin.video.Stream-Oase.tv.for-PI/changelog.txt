@@ -1,0 +1,10 @@
+Version 1.0.4
+ Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
+Version 1.0.3
+ Das neue Login wurde eingepflegt, Serien und Cartoons gehen wieder.
+Version 1.0.2
+ Fluechtigkeitsfehler!!!
+Version 1.0.1
+ Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
+Version 1.0
+ initial Release of Pi-Version. Official Plugin for www.Stream-Oase.tv, specially for weak configured systems like Raspberry Pi!!!

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="Crossbox.repo" 
+		name="Joerg Wigger" 
+		version="0.0.1" 
+		provider-name="Team Crossbox">
+	<extension point="xbmc.addon.repository" name="Crossbox Add-on Repository">
+		<info compressed="false">http://crossbox.tv/trunk/addons.xml</info>
+		<checksum>http://crossbox.tv/trunk/addons.xml.md5</checksum>
+		<datadir zip="true">http://crossbox.tv/trunk/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de">AddOns fuer die Crossbox(RC)</summary>
+		<description lang="de">Offizielle AddOns für Deine Crossbox</description>
+		<disclaimer lang="de">Offizielle Crossbox plugins</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="plugin.audio.musicstream"
+       name="musicstream.cc"
+       version="0.4"
+       provider-name="Mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Mentality stellt vor</summary>
+    <description>~~~Mentality wuenscht euch viel Spass~~~</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="plugin.video.Stream-Oase.tv.for-PI"
+       name="Stream-Oase.tv.for-PI"
+       version="1.0.4"
+       provider-name="mentality">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.0"/>
+    <import addon="script.module.mechanize" version="0.2.5"/>
+    <!-- <import addon="script.module.urlresolver" version="0.0.1"/> -->
+    <import addon="script.module.t0mm0.common" version="1.1.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>HD MOVIES</summary>
+    <description lang="de">Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
+Mentality und Stream-Oase wünschen euch viel Spaß !!!!</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>

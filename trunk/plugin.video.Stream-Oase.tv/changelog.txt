@@ -1,0 +1,47 @@
+Version 1.1.6
+ Komodie funktioniert wieder!!!
+Version 1.1.5
+ Dank redmoon ist das Plugin jetzt noch schneller beim updaten der Filme. Livestreams aktualisiert!!!
+Version 1.1.4
+ Das neue Login wurde eingepflegt, Serien und Cartoons gehen wieder.
+Version 1.1.3
+ Fluechtigkeitsfehler
+Version 1.1.2
+ Hoster VK.COM wurde implementiert, kleinere Verbesserungen und eine frische Datenbank!!!
+Version 1.1.1
+ Kleine Fehler!!!
+Version 1.1
+ Komplette Design aenderung im Code, naja fuer Enduser nicht ersichtlich. Ich hoffe das es ab jetzt noch besser laufen wird.
+ Umstellung des Einlesen von XML ueber dom XML parser. 
+ Frische Datenbank!!!
+Version 1.0.4.0
+ Livestreams Update.Paar kleine fixes und eine frische Datenbank!!!
+Version 1.0.3.9.1 
+Version 1.0.3.9 
+ Scraper für mightyupload wurde korrigiert.Paar kleine fixes und eine frische Datenbank!!!
+Version 1.0.3.8
+ Der VideoSlasher Hoster ist eingepflegt, war das ein Kampf! Frische Database!
+Version 1.0.3.7
+ VideoSlasher wurde implementiert, die neue Serien koennt ihr jetzt auch schauen.
+Version 1.0.3.6 
+ Livestreams auf Veetle.com sind mit ins Plugin aufgenommen!
+Version 1.0.3.5
+ Fehler behoben
+Version 1.0.3.4
+ Suchfunktion gefixt!
+Version 1.0.3.3
+ Fehler behoben
+Version 1.0.3.2
+ Fehler behoben
+Version 1.0.3.1
+ Fehler behoben
+Version 1.0.3
+ Die Cartoons wurden implementiert
+ Die Datenbank erkent jetzt zu 99% der Fanarts/Hintergründe
+ Datenbank wurde erweitert auf Inhalt,Darsteller,IMDB,FSK
+Version 1.0.2
+ Die Serien wurden implementiert, kleinere fixes.
+Version 1.0.1
+ Nun sollte das Plugin auf allen Geräten funktionieren!!!
+Version 1.0.0
+ initial Release. Official Plugin for www.Stream-Oase.tv
